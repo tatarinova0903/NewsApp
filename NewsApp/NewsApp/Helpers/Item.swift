@@ -1,8 +1,12 @@
-//
-//  Item.swift
-//  NewsApp
-//
-//  Created by Дарья on 07.06.2021.
-//
-
 import Foundation
+
+struct Item: Codable {
+    var status: String
+    var totalResults: Int?
+    var articles: [Article]?
+}
+
+struct Article: Codable {
+    var title: String
+}
+

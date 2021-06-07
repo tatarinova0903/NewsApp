@@ -1,8 +1,5 @@
-//
-//  Credential.swift
-//  NewsApp
-//
-//  Created by Дарья on 07.06.2021.
-//
-
 import Foundation
+
+struct Keys {
+    static let key = "2488b27acdfa440c9ffff6c4b678626b"
+}

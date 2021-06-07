@@ -1,0 +1,16 @@
+PODS:
+  - PinLayout (1.9.3)
+
+DEPENDENCIES:
+  - PinLayout
+
+SPEC REPOS:
+  trunk:
+    - PinLayout
+
+SPEC CHECKSUMS:
+  PinLayout: 4d8733121f8687edcc8f00c19bf1379d12808767
+
+PODFILE CHECKSUM: 569da9226b20950e98819b5c91b8b4ec4ae402f3
+
+COCOAPODS: 1.10.1
